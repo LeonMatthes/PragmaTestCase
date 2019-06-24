@@ -1,7 +1,7 @@
 testing
 shouldSkip
 
-	^ (self class compiledMethodInHierarchy: testSelector)
+	^ (self class compiledMethodForSymbol: testSelector)
 		ifNil: [false]
 		ifNotNil: [:theMethod |
 			(theMethod pragmaAt: #skip) notNil]
