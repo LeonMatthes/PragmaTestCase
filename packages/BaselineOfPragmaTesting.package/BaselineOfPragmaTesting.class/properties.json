@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPragmaTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPragmaTesting",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

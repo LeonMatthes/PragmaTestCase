@@ -1,4 +1,5 @@
 OrderedDictionary {
 	'packages\/PragmaTesting-Core.package' : #SquotCypressCodeSerializer,
-	'packages\/PragmaTesting-Tests.package' : #SquotCypressCodeSerializer
+	'packages\/PragmaTesting-Tests.package' : #SquotCypressCodeSerializer,
+	'packages\/BaselineOfPragmaTesting.package' : #SquotCypressCodeSerializer
 }
