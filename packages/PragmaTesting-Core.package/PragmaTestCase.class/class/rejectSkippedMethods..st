@@ -1,4 +1,4 @@
-as yet unclassified
+test skipping
 rejectSkippedMethods: testMethodSelectors
 
 	^ testMethodSelectors reject: [:selector | |method|
