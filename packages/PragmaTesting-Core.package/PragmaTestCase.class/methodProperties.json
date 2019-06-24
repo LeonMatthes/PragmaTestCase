@@ -1,6 +1,5 @@
 {
 	"class" : {
-		"addToSuite:fromMethods:" : "LM 6/24/2019 17:47",
-		"rejectSkippedMethods:" : "LM 6/24/2019 17:51" },
+		 },
 	"instance" : {
-		 } }
+		"shouldSkip" : "LM 6/24/2019 20:30" } }

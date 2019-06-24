@@ -1,0 +1,4 @@
+*PragmaTesting-Core
+resultClass
+
+	^ PragmaTestResult
