@@ -1,0 +1,16 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'PragmaTesting',
+      #platforms : [ #squeak ],
+      #directory : 'packages',
+      #load : [ 'tests' ]
+    }
+  ],
+  
+  #testing: {
+     #coverage: {
+      #packages: [ 'PragmaTesting-Core' ]
+     }
+   }
+}
