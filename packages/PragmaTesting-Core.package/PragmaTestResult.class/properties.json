@@ -1,0 +1,14 @@
+{
+	"category" : "PragmaTesting-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"skipped" ],
+	"name" : "PragmaTestResult",
+	"pools" : [
+		 ],
+	"super" : "TestResult",
+	"type" : "normal" }
